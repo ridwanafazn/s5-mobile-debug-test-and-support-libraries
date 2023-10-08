@@ -1,0 +1,10 @@
+com.example.android.SimpleCalc.app-support-compat-27.1.1-0 C:\Users\Ridwanskie\.gradle\caches\transforms-3\7a34e039deae8ac2b8d93594f6f3736d\transformed\support-compat-27.1.1\res
+com.example.android.SimpleCalc.app-support-core-ui-27.1.1-1 C:\Users\Ridwanskie\.gradle\caches\transforms-3\c9a212ade185a707ca7b195bed15fc03\transformed\support-core-ui-27.1.1\res
+com.example.android.SimpleCalc.app-appcompat-v7-27.1.1-2 C:\Users\Ridwanskie\.gradle\caches\transforms-3\f2f72d1a0eda4fcd650bc9c0fe3a246b\transformed\appcompat-v7-27.1.1\res
+com.example.android.SimpleCalc.app-pngs-3 C:\Users\Ridwanskie\AndroidStudioProjects\SimpleCalc\app\build\generated\res\pngs\debug
+com.example.android.SimpleCalc.app-resValues-4 C:\Users\Ridwanskie\AndroidStudioProjects\SimpleCalc\app\build\generated\res\resValues\debug
+com.example.android.SimpleCalc.app-mergeDebugResources-5 C:\Users\Ridwanskie\AndroidStudioProjects\SimpleCalc\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.android.SimpleCalc.app-mergeDebugResources-6 C:\Users\Ridwanskie\AndroidStudioProjects\SimpleCalc\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.android.SimpleCalc.app-merged_res-7 C:\Users\Ridwanskie\AndroidStudioProjects\SimpleCalc\app\build\intermediates\merged_res\debug
+com.example.android.SimpleCalc.app-debug-8 C:\Users\Ridwanskie\AndroidStudioProjects\SimpleCalc\app\src\debug\res
+com.example.android.SimpleCalc.app-main-9 C:\Users\Ridwanskie\AndroidStudioProjects\SimpleCalc\app\src\main\res
