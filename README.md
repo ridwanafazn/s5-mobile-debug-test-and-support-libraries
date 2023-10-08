@@ -1,8 +1,8 @@
 SimpleCalc - Starter Code
 =========================
 ### Identitas
-Nama : Ridwan Ahmad Fauzan
-NIM : 1217050121
+Nama : Ridwan Ahmad Fauzan  
+NIM : 1217050121  
 Kelas : Praktikum Pengembangan Aplikasi Mobile B
 
 ### Dokumentasi
